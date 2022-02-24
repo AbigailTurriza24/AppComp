@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//Vista CardPage
 class CardPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
