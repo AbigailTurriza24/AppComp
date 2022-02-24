@@ -19,7 +19,7 @@ class AvatarPage extends StatelessWidget {
             margin: EdgeInsets.only(right: 10.0),
             child: CircleAvatar(
               child: Text("AT"),
-              backgroundColor: Color.fromARGB(255, 188, 119, 206),
+              backgroundColor: Color.fromARGB(255, 192, 119, 211),
             ),
           )
         ],
