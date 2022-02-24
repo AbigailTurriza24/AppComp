@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//Vista Avatar
 class AvatarPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
