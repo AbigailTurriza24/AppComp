@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//Vista Slider
 class SliderPage extends StatefulWidget {
   const SliderPage({Key? key}) : super(key: key);
 
