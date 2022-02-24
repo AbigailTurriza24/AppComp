@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
         title: Text(opt['texto']),
         leading: getIcon(opt['icon']),
         trailing: Icon(Icons.keyboard_arrow_right,
-            color: Color.fromARGB(255, 217, 255, 79)),
+            color: Color.fromARGB(255, 199, 236, 64)),
         onTap: () {
           Navigator.pushNamed(context, opt['ruta']);
 
